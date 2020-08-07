@@ -26,11 +26,15 @@
 
 ## Контактные данные
 * Backend-developers:
-    - [Александр](https://t.me/al3x_kuz), [Дмитрий](https://t.me/levshakor)
+    - [Александр](https://t.me/al3x_kuz)
+    - [Дмитрий](https://t.me/levshakor)
 * Frontend-developers
-    - [Алексей](https://t.me/ol_euua), [Валентина](https://t.me/etrenton), [Даниил](https://t.me/White_Rover)
+    - [Алексей](https://t.me/ol_euua)
+    - [Валентина](https://t.me/etrenton)
+    - [Даниил](https://t.me/White_Rover)
 * Презент
-    - [Арина](https://t.me/arina_juj), [Илья](https://t.me/ilya_kurbet)
+    - [Арина](https://t.me/arina_juj)
+    - [Илья](https://t.me/ilya_kurbet)
 
 ## Лицензия
 [MIT](https://opensource.org/licenses/MIT)
