@@ -32,7 +32,7 @@
     - [Алексей](https://t.me/ol_euua)
     - [Валентина](https://t.me/etrenton)
     - [Даниил](https://t.me/White_Rover)
-* Презент
+* Product Managers
     - [Арина](https://t.me/arina_juj)
     - [Илья](https://t.me/ilya_kurbet)
 
